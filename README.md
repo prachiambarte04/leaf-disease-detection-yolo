@@ -150,10 +150,3 @@ Future work may include:
 
 ---
 
-## 📬 Author
-
-**Prachi Ambarte**  
-Aspiring AI/ML Engineer | Data Science Enthusiast
-
-LinkedIn: (Add Link)  
-GitHub: (Add Link)
