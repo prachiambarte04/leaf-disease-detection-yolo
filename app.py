@@ -7,7 +7,7 @@ import numpy as np
 st.set_page_config(page_title="Leaf Disease Detection", layout="centered")
 
 # 🔹 Load model
-model = YOLO(r"D:\CNN_Object_Detection\models\leaf_model\weights\best.pt")
+model = YOLO("weights/best.pt")
 
 # 🔹 Title
 st.title("🌿 Leaf Disease Detection")
