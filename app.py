@@ -14,7 +14,7 @@ st.set_page_config(
 # ---------------- BACKGROUND ----------------
 def set_bg():
 
-    with open(r"C:\Users\ADMIN\OneDrive\Music\Desktop\img.avif", "rb") as img:
+    with open("img.avif", "rb") as img:
         encoded = base64.b64encode(img.read()).decode()
 
     st.markdown(
