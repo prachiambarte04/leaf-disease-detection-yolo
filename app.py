@@ -75,7 +75,7 @@ set_bg()
 
 # ---------------- MODEL ----------------
 model = YOLO(
-    r"D:\CNN_Object_Detection\models\leaf_model\weights\best.pt"
+    model = YOLO("weights/best.pt")
 )
 
 # ---------------- HERO TITLE ----------------
